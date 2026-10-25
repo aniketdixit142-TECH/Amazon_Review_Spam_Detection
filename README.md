@@ -34,4 +34,7 @@ An end-to-end Machine Learning pipeline to identify genuine vs. spam/fake review
 - **Machine Learning & NLP:** Scikit-learn (`TfidfVectorizer`, `LinearSVC`, `MultinomialNB`, `LogisticRegression`)
 - **Model Serialization:** Joblib
 - **Visualization:** Matplotlib, Seaborn
--
+-### 📈 Visual Evaluation
+![Model Comparison](model_comparison.png)
+
+![Confusion Matrix](confusion_matrix.png)
